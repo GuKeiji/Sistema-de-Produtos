@@ -1,0 +1,16 @@
+E:\HD\SENAI\AtividadeDeSexta\bin\Debug\net5.0\AtividadeDeSexta.exe
+E:\HD\SENAI\AtividadeDeSexta\bin\Debug\net5.0\AtividadeDeSexta.deps.json
+E:\HD\SENAI\AtividadeDeSexta\bin\Debug\net5.0\AtividadeDeSexta.runtimeconfig.json
+E:\HD\SENAI\AtividadeDeSexta\bin\Debug\net5.0\AtividadeDeSexta.runtimeconfig.dev.json
+E:\HD\SENAI\AtividadeDeSexta\bin\Debug\net5.0\AtividadeDeSexta.dll
+E:\HD\SENAI\AtividadeDeSexta\bin\Debug\net5.0\ref\AtividadeDeSexta.dll
+E:\HD\SENAI\AtividadeDeSexta\bin\Debug\net5.0\AtividadeDeSexta.pdb
+E:\HD\SENAI\AtividadeDeSexta\obj\Debug\net5.0\AtividadeDeSexta.csprojAssemblyReference.cache
+E:\HD\SENAI\AtividadeDeSexta\obj\Debug\net5.0\AtividadeDeSexta.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI\AtividadeDeSexta\obj\Debug\net5.0\AtividadeDeSexta.AssemblyInfoInputs.cache
+E:\HD\SENAI\AtividadeDeSexta\obj\Debug\net5.0\AtividadeDeSexta.AssemblyInfo.cs
+E:\HD\SENAI\AtividadeDeSexta\obj\Debug\net5.0\AtividadeDeSexta.csproj.CoreCompileInputs.cache
+E:\HD\SENAI\AtividadeDeSexta\obj\Debug\net5.0\AtividadeDeSexta.dll
+E:\HD\SENAI\AtividadeDeSexta\obj\Debug\net5.0\ref\AtividadeDeSexta.dll
+E:\HD\SENAI\AtividadeDeSexta\obj\Debug\net5.0\AtividadeDeSexta.pdb
+E:\HD\SENAI\AtividadeDeSexta\obj\Debug\net5.0\AtividadeDeSexta.genruntimeconfig.cache
